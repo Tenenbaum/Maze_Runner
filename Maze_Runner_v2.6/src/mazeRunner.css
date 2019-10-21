@@ -1,0 +1,42 @@
+.pane{
+	-fx-border-color: blue;
+	-fx-border-width: 5px;
+	-fx-padding: 10px;
+	-fx-background-color: black;
+
+}
+
+
+.label{
+		-fx-text-fill: white;		
+}
+
+.text{
+	
+	-fx-wrap-text: true;
+	-fx-padding: 2px;
+	-fx-border-color: grey;
+	-fx-border-width: 2px;
+	-fx-background-color: white;
+	-fx-text-fill: black;	
+	-fx-min-width: 100px;
+	
+}
+
+.combo-box-popup {
+	-fx-background-color: white;
+	-fx-text-fill: black;	
+}
+
+.combo-box .list-view{
+	-fx-background-color: white;
+	-fx-text-fill: black;	
+}
+
+
+.title{
+	-fx-font-weight: bold;
+}
+
+
+
